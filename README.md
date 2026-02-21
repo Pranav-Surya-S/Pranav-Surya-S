@@ -4,9 +4,9 @@ I’m Pranav Surya S, a random kid from India entusaistic about full stack devel
 I mostly build tools to automate the repetitive and boring parts of life for keeping things efficient so I can stay lazy.
 
 Stuff I am good at: 
-Full stack web design (HTML5, CSS, JS), react.
-python, C/C++, Java, X86-64 Assembly (cybersecurity focused)
-Reverse engineering, OSINT.
+- Full stack web design (HTML5, CSS, JS), react.
+- python, C/C++, Java, X86-64 Assembly (cybersecurity focused)
+- Reverse engineering, OSINT.
 
 Some stuff I built:
 - [Port Scanner](https://github.com/Pranav-Surya-S/portScanner)
