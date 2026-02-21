@@ -1,26 +1,17 @@
-# Pranav Surya
-**Software Developer | Cybersecurity Enthusiast**
+Hello people! 
+I’m Pranav Surya S, a random kid from India entusaistic about full stack development, software enginnering and cybersecurity.
+I mostly build tools to automate the repetitive and boring parts of life for keeping things efficient so I can stay lazy.
 
-## About
-A developer with a strong foundation in core programming languages (C/C++, Java, Python) and web technologies. I am currently pivoting my focus toward Cybersecurity and secure coding practices while maintaining full-stack development skills.
+Stuff I am good at: 
+Full stack web design (HTML5, CSS, JS), react.
+python, C/C++, Java, X86-64 Assembly (cybersecurity focused)
+Reverse engineering, OSINT.
 
----
+Some stuff I built:
+- [Port Scanner](https://github.com/Pranav-Surya-S/portScanner)
+- [VIdeo Call](https://github.com/Pranav-Surya-S/Video-call)
+- [AVL Tree Generator](Privated)
 
-## Technical Skills
-
-* **Core Languages:** C, C++, Java, Python, JavaScript, PHP
-* **Frontend:** React.js, HTML5, CSS3, Bootstrap, jQuery
-* **Backend:** Node.js, Express.js
-* **Databases:** MySQL, PostgreSQL
-* **Tools & Concepts:** Git, REST APIs, Linux/Bash
-
-## Current Focus
-I am actively expanding my skillset in **Cybersecurity**, with a focus on network security and vulnerability assessment, alongside advanced database management.
-
-## Projects
-
-**Portfolio Website** (Work In Progress)
-Developing a personal portfolio to showcase technical projects and skills, built using HTML, CSS, and JavaScript.
 
 ---
 
