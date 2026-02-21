@@ -1,5 +1,5 @@
-# Hello people! 🫠
----
+## Hello people! 🫠
+
 I’m Pranav Surya S, a random kid from India entusaistic about full stack development, software enginnering and cybersecurity.
 I mostly build tools to automate the repetitive and boring parts of life for keeping things efficient so I can stay lazy.
 
